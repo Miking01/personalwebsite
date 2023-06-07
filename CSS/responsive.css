@@ -44,6 +44,10 @@
         flex-wrap: wrap;
         justify-content: center;
     }
+    .about_section .about_container {
+        flex-wrap: wrap;
+        justify-content: center;
+    }
     .service_section .box {
         margin: 25px;
     }
