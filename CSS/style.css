@@ -333,23 +333,23 @@ a:focus {
 /*End*/
 
 .about_section .about_container a.table#airtel:hover {
-    background-color: #000000;
-    color: #ffffff;
+    background-color: #ffffff;
+    color: #000000;
 }
 
 .about_section .about_container a.table#mtn:hover {
-    background-color: #000000;
-    color: #ffffff;
+    background-color: #ffffff;
+    color: #000000;
 }
 
 .about_section .about_container a.table#glo:hover {
-    background-color: #000000;
-    color: #ffffff;
+    background-color: #ffffff;
+    color: #000000;
 }
 
 .about_section .about_container a.table#mobile:hover {
-    background-color: #000000;
-    color: #ffffff;
+    background-color: #ffffff;
+    color: #000000;
 }
 
 .about_section a:hover {
