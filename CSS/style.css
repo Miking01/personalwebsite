@@ -332,7 +332,22 @@ a:focus {
 
 /*End*/
 
-.about_section .about_container a.table:hover {
+.about_section .about_container a.table#airtel:hover {
+    background-color: #000000;
+    color: #ffffff;
+}
+
+.about_section .about_container a.table#mtn:hover {
+    background-color: #000000;
+    color: #ffffff;
+}
+
+.about_section .about_container a.table#glo:hover {
+    background-color: #000000;
+    color: #ffffff;
+}
+
+.about_section .about_container a.table#mobile:hover {
     background-color: #000000;
     color: #ffffff;
 }
