@@ -363,6 +363,11 @@ a:focus {
 
 .about_section .img-box img {
     width: 100%;
+    align-content: center;
+}
+
+.about_section .img-box#network {
+    width: 100%;
     height: 120px;
     align-content: center;
 }
